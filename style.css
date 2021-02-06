@@ -13,6 +13,10 @@ h1 {
     margin-bottom: 20px;
 }
 
+h4 {
+    margin-top: 15px;
+}
+
 /* so it sits nicer next to the images */
 p {
     padding-top: 15px;
